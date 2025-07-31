@@ -4,7 +4,7 @@
       <h2>Hi 👋, I'm Saadia</h2>
       <p>
         💻 Final-year Engineering Student in <strong>Data Science & IoT</strong> at ENSIAS<br>
-        🔬 Passionate passionate about solving real-world challenges through Machine Learning, NLP, and AI systems.<br>
+        🔬 Passionate about solving real-world challenges through  Machine Learning, NLP, and AI systems.<br>
         📍 Based in Rabat, Morocco
       </p>
     </div>
