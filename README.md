@@ -1,9 +1,21 @@
-# 👋 Hi there! I'm Saadia AKERKOUCH
+<table>
+  <tr>
+    <td width="60%">
+      <h2>👋Hi there! I'm Saadia AKERKOUCH</h2>
+      <p>
+        💻 **Final-year Engineering Student** in **Data Science & IoT** at [ENSIAS](https://ensias.um5.ac.ma/)<br>
+        🔬 Passionate passionate about solving real-world challenges through Machine Learning, NLP, and AI systems.<br>
+        📍 Based in Rabat, Morocco
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmd2liYmpjM2Nqc2lheno3anNpYWdsbjRqcXNtOGJ3Y2Voc2ZvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="250" alt="AI animation">
+    </td>
+  </tr>
+</table>
 
-🎓 **Final-year Engineering Student** in **Data Science & IoT** at [ENSIAS](https://ensias.um5.ac.ma/), passionate about solving real-world challenges through Machine Learning, NLP, and AI systems.
-
-📍 Based in Rabat, Morocco
 ---
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
