@@ -2,15 +2,17 @@
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; width: 60%;">
       <h2>Hi 👋, I'm Saadia</h2>
-       <p>
+      <p>
         💻 Final-year Engineering Student in <strong>Data Science & IoT</strong> at ENSIAS<br>
         🔬 Passionate passionate about solving real-world challenges through Machine Learning, NLP, and AI systems.<br>
         📍 Based in Rabat, Morocco
       </p>
     </div>
     <div style="display: table-cell; text-align: center;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmd2liYmpjM2Nqc2lheno3anNpYWdsbjRqcXNtOGJ3Y2Voc2ZvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="240" alt="AI Animation">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmd2liYmpjM2Nqc2lheno3anNpYWdsbjRqcXNtOGJ3Y2Voc2ZvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif"
+           width="240" alt="AI Animation">
     </div>
+
   </div>
 </div>
 
