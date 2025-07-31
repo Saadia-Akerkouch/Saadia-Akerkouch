@@ -1,4 +1,4 @@
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 60%;">
       <h2>👋Hi there! I'm Saadia AKERKOUCH</h2>
