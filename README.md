@@ -4,11 +4,6 @@
 
 📍 Based in Rabat, Morocco
 ---
-## 🌐 Portfolio Website
-
-🔗 [saadia-akerkouch.butternut.ai](https://saadia-akerkouch.butternut.ai)
-
----
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -57,14 +52,21 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Saadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saadia-Akerkouch&show_icons=true&theme=react&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadia-Akerkouch&show_icons=true&theme=radical" alt="github stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadia-Akerkouch&theme=radical" alt="github streak"/>
+</p>
 
 ---
 
-## 🌍 Connect with Me
+## 🌐 Portfolio & Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadia-akerkouch)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadiaakerkouch2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadia-Akerkouch)
+- 🔗 Portfolio: [saadia-akerkouch.butternut.ai](https://saadia-akerkouch.butternut.ai)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saadia-akerkouch)
+- 🧠 [GitHub](https://github.com/Saadia-Akerkouch)
+
+---
+
+> "Driven by curiosity, fueled by code." 🚀
