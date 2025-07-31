@@ -8,10 +8,6 @@
         📍 Based in Rabat, Morocco
       </p>
     </div>
-    <div style="display: table-cell; text-align: center;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmd2liYmpjM2Nqc2lheno3anNpYWdsbjRqcXNtOGJ3Y2Voc2ZvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif"
-           width="240" alt="AI Animation">
-    </div>
 
   </div>
 </div>
