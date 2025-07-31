@@ -69,8 +69,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadia-Akerkouch&theme=radical" alt="github streak"/>
 </p>
 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Saadia-Akerkouch" alt="views" /> </p>
-
 ---
 
 ## 🌐 Portfolio & Links
