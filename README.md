@@ -64,16 +64,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSaadia-Akerkouch%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" height="180" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSaadia-Akerkouch%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" height="180" alt="languages graph"  />
-</div>
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadia-Akerkouch&show_icons=true&theme=radical" alt="github stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadia-Akerkouch&theme=radical" alt="github streak"/>
+
+</p>
 
 ---
 
 ## 🌐 Portfolio & Links
 
-- 🔗 Portfolio: [saadia-akerkouch](https://saadia-akerkouch.butternut.ai](https://myportfolio-six-sepia-94.vercel.app/)
+- 🔗 [Portfolio](https://myportfolio-six-sepia-94.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saadia-akerkouch)
 - 🧠 [GitHub](https://github.com/Saadia-Akerkouch)
 
